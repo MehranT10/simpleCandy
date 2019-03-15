@@ -1,0 +1,28 @@
+get 1200 points in 12 moves:
+G  O  O  V  G  O  O  V  Y  G
+B  V  O  R  Y  Y  B  V  G  V
+B  G  R  B  Y  O  B  Y  R  R
+R  G  G  B  O  G  Y  O  V  V
+G  B  G  G  O  B  GS  O  B  V
+R  G  Y  R  Y  R  R  Y  Y  R
+Y  V  B  R  G  O  O  R  O  V
+B  V  O  G  B  V  G  B  R  Y
+O  R  O  B  B  Y  Y  G  O  B
+G  B  B  G  V  G  O  V  B  Y
+Remain Moves:11
+Score:60
+***********************************************
+get 1200 points in 12 moves:
+G  G  B  R  G  R  O  Y  Y  G
+B  B  O  V  Y  O  O  V  G  V
+B  O  V  R  Y  Y  B  V  R  R
+R  Y  R  B  O  O  B  Y  V  V
+G  O  G  B  O  G  Y  O  B  V
+R  V  G  G  Y  B  GS  O  Y  R
+Y  B  Y  R  G  O  O  Y  O  V
+B  V  B  R  B  V  G  B  R  Y
+O  V  O  G  B  Y  Y  G  O  B
+G  R  O  G  V  G  O  V  B  Y
+Remain Moves:8
+Score:300
+***********************************************
